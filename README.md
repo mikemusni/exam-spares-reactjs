@@ -5,7 +5,7 @@
 * docker run -it -p 8080:8080 spare-reactjs
 
 # User accounts
-admin / admin
-user1 / user1
-user2 / user2
-user3 / user3
+* admin / admin
+* user1 / user1
+* user2 / user2
+* user3 / user3
